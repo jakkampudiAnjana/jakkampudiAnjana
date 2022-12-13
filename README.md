@@ -2,6 +2,7 @@
 - 👀 I’m interested in  Tech...
 - 🌱 I’m currently learning Salesforce ...
 - 📫 How to reach me anjanajakkampudi@gmail.com
+- Shri vishnu engineering college for women
 
 <!---
 jakkampudiAnjana/jakkampudiAnjana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
